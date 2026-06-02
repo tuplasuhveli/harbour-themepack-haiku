@@ -11,6 +11,7 @@ my_resources.files = $$MY_FILES
 
 themepack.files = theme/*
 themepack.files -= theme/themepack-helper.sh
+themepack.files -= theme/companion
 themepack.path = $$PREFIX/share/$$TARGET
 
 INSTALLS += my_resources themepack
