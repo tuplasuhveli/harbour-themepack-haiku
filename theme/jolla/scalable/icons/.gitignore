@@ -1,6 +1,0 @@
-# ignore generated PNGs; keep sources
-*
-!.gitignore
-!*.hvif
-!*.svg
-!*.iom
