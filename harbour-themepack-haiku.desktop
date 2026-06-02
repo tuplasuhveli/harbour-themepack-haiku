@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-themepack-haiku
+Exec=invoker --type=generic -s /usr/bin/harbour-themepack-haiku
+Name=Haiku
+
+[X-Sailjail]
+OrganizationName=org.themepack.haiku
+ApplicationName=harbour-themepack-haiku
+Sandboxing=Disabled

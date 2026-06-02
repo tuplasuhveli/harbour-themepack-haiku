@@ -1,0 +1,81 @@
+<svg width="64" height="64" viewBox="0 0 6528 6528" xmlns="http://www.w3.org/2000/svg">
+<path id="shape_0" d="M 3264 6324 C 3264 6324 4080 6324 4080 6324 C 4080 6324 4488 6528 4488 6528 C 4488 6528 6222 4386 6222 4386 C 6222 4386 5692 4121 5692 4121 C 5692 4121 6120 3876 6120 3876 C 6120 3876 5304 3774 5304 3774 C 5304 3774 3264 6324 3264 6324 Z " style="fill:#000000;stroke:none;fill-opacity:0.4;" />
+<path id="shape_1" d="M 1020 3978 C 1020 3978 1020 4998 1020 4998 C 1020 4998 3264 6120 3264 6120 C 3264 6120 5100 4284 5100 4284 C 5100 4284 5100 3672 5100 3672 " style="stroke-width:408;stroke-linejoin:round;stroke-linecap:butt;stroke:#000000;fill:none;" />
+<g>
+<defs>
+<linearGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.172965,-0.039741,0.069978,-0.304564,4027.08,5733.34)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#82aac8" />
+<stop offset="100%" stop-color="#40407c" />
+</linearGradient>
+</defs>
+<path id="shape_2" d="M 3264 3876 C 3264 3876 5100 2040 5100 2040 C 5100 2040 5100 4284 5100 4284 C 5100 4284 3264 6120 3264 6120 C 3264 6120 3264 3876 3264 3876 Z " style="fill:url(#id1);stroke:none;" />
+</g>
+<path id="shape_3" d="M 3264 3876 C 3264 3876 4284 3876 4284 3876 C 4284 3876 3264 4896 3264 4896 C 3264 4896 3264 3876 3264 3876 Z " style="fill:#3d3d5d;stroke:none;" />
+<g>
+<defs>
+<linearGradient id="id2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.113936,0.067255,-0.127083,-0.21529,2963.32,6250.41)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#5a6e82" />
+<stop offset="100%" stop-color="#9be2ff" />
+</linearGradient>
+</defs>
+<path id="shape_4" d="M 1213 3673 C 1213 3673 1428 4692 1428 4692 C 1428 4692 3264 5610 3264 5610 C 3264 5610 3264 6120 3264 6120 C 3264 6120 1020 4998 1020 4998 C 1020 4998 1020 3671 1020 3671 C 1020 3671 1213 3673 1213 3673 Z " style="fill:url(#id2);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.026713,0.081314,-0.296888,-0.097533,3404.5,4947.8)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#5a6e82" />
+<stop offset="100%" stop-color="#3a7d99" />
+</linearGradient>
+</defs>
+<path id="shape_5" d="M 3264 3876 C 3264 3876 3264 5610 3264 5610 C 3264 5610 1428 4692 1428 4692 C 1428 4692 1213 3673 1213 3673 C 1213 3673 3264 3876 3264 3876 Z " style="fill:url(#id3);stroke:none;" />
+</g>
+<path id="shape_6" d="M 2448 4692 C 2448 4692 204 3570 204 3570 C 204 3570 1020 2754 1020 2754 C 1020 2754 204 2754 204 2754 C 204 2754 2448 1428 2448 1428 C 2448 1428 3060 1428 3060 1428 C 3060 1428 3774 612 3774 612 C 3774 612 5508 1224 5508 1224 C 5508 1224 5100 2346 5100 2346 C 5100 2346 6324 2652 6324 2652 C 6324 2652 4488 4488 4488 4488 C 4488 4488 3264 3876 3264 3876 C 3264 3876 2448 4692 2448 4692 Z " style="stroke-width:408;stroke-linejoin:round;stroke-linecap:butt;stroke:#000000;fill:none;" />
+<g>
+<defs>
+<linearGradient id="id4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.084067,0.11561,-0.278017,0.202164,3247.59,2328.18)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#40407c" />
+<stop offset="99.61%" stop-color="#417297" />
+</linearGradient>
+</defs>
+<path id="shape_7" d="M 1020 2754 C 1020 2754 3060 1428 3060 1428 C 3060 1428 3060 3366 3060 3366 C 3060 3366 2437 3864 2437 3864 C 2437 3864 1020 3161 1020 3161 C 1020 3161 1020 2754 1020 2754 Z " style="fill:url(#id4);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.147113,0.035612,-0.132344,0.546707,4449.97,760.23)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#6dc8ed" />
+<stop offset="100%" stop-color="#a4c6e1" />
+</linearGradient>
+</defs>
+<path id="shape_8" d="M 3060 1428 C 3060 1428 3468 3060 3468 3060 C 3468 3060 5100 3774 5100 3774 C 5100 3774 5100 2244 5100 2244 C 5100 2244 3060 1428 3060 1428 Z " style="fill:url(#id5);stroke:none;" />
+</g>
+<path id="shape_9" d="M 3060 1428 C 3060 1428 3468 3060 3468 3060 C 3468 3060 5100 3774 5100 3774 C 5100 3774 4268 3909 4268 3909 C 4268 3909 3060 3366 3060 3366 C 3060 3366 3060 1428 3060 1428 Z " style="fill:#3d3d5d;stroke:none;" />
+<path id="shape_10" d="M 3060 3366 C 3060 3366 2437 3864 2437 3864 C 2437 3864 3264 3876 3264 3876 C 3264 3876 3682 3646 3682 3646 C 3682 3646 3060 3366 3060 3366 Z " style="fill:#376181;stroke:none;" />
+<g>
+<defs>
+<linearGradient id="id6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.137402,-0.014381,0.032531,0.310801,4398.45,468.64)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#9be2ff" />
+<stop offset="100%" stop-color="#5789bd" />
+</linearGradient>
+</defs>
+<path id="shape_11" d="M 3774 612 C 3774 612 5508 1224 5508 1224 C 5508 1224 5100 2346 5100 2346 C 5100 2346 3060 1428 3060 1428 C 3060 1428 3774 612 3774 612 Z " style="fill:url(#id6);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.341167,0.042053,-0.072636,0.589287,1877.5,2121.29)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#9be2ff" />
+<stop offset="100%" stop-color="#5d81a5" />
+</linearGradient>
+</defs>
+<path id="shape_12" d="M 204 3570 C 204 3570 2448 4692 2448 4692 C 2448 4692 3264 3876 3264 3876 C 3264 3876 1020 2754 1020 2754 C 1020 2754 204 3570 204 3570 Z " style="fill:url(#id7);stroke:none;" />
+</g>
+<path id="shape_13" d="M 204 2754 C 204 2754 2448 1428 2448 1428 C 2448 1428 3060 1428 3060 1428 C 3060 1428 1020 2754 1020 2754 C 1020 2754 204 2754 204 2754 Z " style="fill:#9be2ff;stroke:none;" />
+<g>
+<defs>
+<linearGradient id="id8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.148765,0.073931,-0.091547,0.184213,4805.18,2782.55)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#9be2ff" />
+<stop offset="100%" stop-color="#5a6e82" />
+</linearGradient>
+</defs>
+<path id="shape_14" d="M 3264 3876 C 3264 3876 5100 2346 5100 2346 C 5100 2346 6324 2652 6324 2652 C 6324 2652 4488 4488 4488 4488 C 4488 4488 3264 3876 3264 3876 Z " style="fill:url(#id8);stroke:none;" />
+</g>
+</svg>

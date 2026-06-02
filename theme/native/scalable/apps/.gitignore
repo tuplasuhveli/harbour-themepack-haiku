@@ -1,0 +1,5 @@
+*
+!.gitignore
+!*.hvif
+!*.svg
+!*.iom

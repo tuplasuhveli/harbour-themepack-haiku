@@ -1,0 +1,124 @@
+<svg width="64" height="64" viewBox="0 0 6528 6528" xmlns="http://www.w3.org/2000/svg">
+<path id="shape_0" d="M 4080 6528 C 4080 6528 4896 6528 4896 6528 C 4896 6528 6120 4998 6120 4998 C 6120 4998 5304 4692 5304 4692 C 5304 4692 4080 6528 4080 6528 Z " style="fill:#010101;stroke:none;fill-opacity:0.49;" />
+<path id="shape_1" d="M 612 816 C 612 816 612 4488 612 4488 C 612 4488 4080 6324 4080 6324 C 4080 6324 5100 5100 5100 5100 C 5100 5100 5100 1428 5100 1428 C 5100 1428 1632 204 1632 204 C 1632 204 612 816 612 816 Z " style="stroke-width:408;stroke-linejoin:miter;stroke-linecap:butt;stroke:#010000;fill:none;" />
+<g>
+<defs>
+<linearGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.347622,0.081512,-0.130454,0.556335,2829.8,273.24)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#ffffff" />
+<stop offset="100%" stop-color="#d3d3d3" />
+</linearGradient>
+</defs>
+<path id="shape_2" d="M 612 816 C 612 816 4080 2244 4080 2244 C 4080 2244 5100 1428 5100 1428 C 5100 1428 1632 204 1632 204 C 1632 204 612 816 612 816 Z " style="fill:url(#id1);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.410252,0.261471,-0.53746,0.843285,4347.53,1436.59)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#161616" />
+<stop offset="23.92%" stop-color="#585a71" />
+<stop offset="85.1%" stop-color="#161616" />
+</linearGradient>
+</defs>
+<path id="shape_3" d="M 3774 2448 C 3774 2448 3774 4692 3774 4692 C 3774 4692 816 3366 816 3366 C 816 3366 821 1210 821 1210 C 821 1210 3774 2448 3774 2448 Z " style="fill:url(#id2);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.290339,0.05198,-0.080863,0.451675,5509.69,2788.05)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#474747" />
+<stop offset="100%" stop-color="#a5a0a0" />
+</linearGradient>
+</defs>
+<path id="shape_4" d="M 4080 2244 C 4080 2244 4080 6324 4080 6324 C 4080 6324 5100 5100 5100 5100 C 5100 5100 5100 1428 5100 1428 C 5100 1428 4080 2244 4080 2244 Z " style="fill:url(#id3);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.288311,-0.28179,0.320728,-0.32815,1365.03,4453.06)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#909090" />
+<stop offset="100%" stop-color="#d4d4d4" />
+</linearGradient>
+</defs>
+<path id="shape_5" d="M 612 816 C 612 816 612 4488 612 4488 C 612 4488 4080 6324 4080 6324 C 4080 6324 4080 2244 4080 2244 C 4080 2244 612 816 612 816 Z M 3774 2448 C 3774 2448 3774 4692 3774 4692 C 3774 4692 816 3264 816 3264 C 816 3264 816 1224 816 1224 C 816 1224 3774 2448 3774 2448 Z " style="fill:url(#id4);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.077273,0.219273,-0.543732,0.191615,3464.39,3036.34)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#242222" />
+<stop offset="100%" stop-color="#9a9a9a" />
+</linearGradient>
+</defs>
+<path id="shape_6" d="M 915 3368 C 915 3368 816 3468 816 3468 C 816 3468 816 1224 816 1224 C 816 1224 923 1312 923 1312 C 923 1312 915 3368 915 3368 Z " style="fill:url(#id5);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.301586,0,0,0.523808,2040,2856)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#d4cece" />
+<stop offset="34.51%" stop-color="#f3f3f3" />
+<stop offset="100%" stop-color="#d9d9d9" />
+</linearGradient>
+</defs>
+<path id="shape_7" d="M 3774 4692 C 3774 4692 3774 4896 3774 4896 C 3774 4896 851 3417 851 3417 C 851 3417 918 3318 918 3318 C 918 3318 3774 4692 3774 4692 Z " style="fill:url(#id6);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.032851,0.065391,-0.553699,-0.27817,3447.48,5501.63)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="19.61%" stop-color="#4b4b4b" />
+<stop offset="70.2%" stop-color="#dbd8d8" />
+</linearGradient>
+</defs>
+<path id="shape_8" d="M 816 3774 C 816 3774 816 4284 816 4284 C 816 4284 3672 5712 3672 5712 C 3672 5712 3672 5100 3672 5100 C 3672 5100 816 3774 816 3774 Z " style="fill:url(#id7);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.640625,0,0,1,2346,0)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="44.31%" stop-color="#858585" />
+<stop offset="45.49%" stop-color="#e63737" />
+<stop offset="98.82%" stop-color="#e63737" />
+</linearGradient>
+</defs>
+<path id="shape_9" d="M 918 3978 C 918 3978 918 4182 918 4182 C 918 4182 3570 5508 3570 5508 C 3570 5508 3570 5202 3570 5202 C 3570 5202 918 3978 918 3978 Z " style="fill:url(#id8);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.071835,-0.087355,0.121981,0.083723,-1878.3,2849.62)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="5.1%" stop-color="#d3d3d3" />
+<stop offset="99.61%" stop-color="#555555" />
+</linearGradient>
+</defs>
+</g>
+<g>
+<defs>
+<radialGradient id="id10" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.527424,0.062629,-0.058787,0.495068,2322.87,1929.36)" cx="0" cy="0" r="6528">
+<stop offset="0%" stop-color="#999cc1" />
+<stop offset="99.61%" stop-color="#8c8c8c" />
+</radialGradient>
+</defs>
+<path id="shape_12" d="M 1625 2233 C 1625 2233 1632 3162 1632 3162 C 1632 3162 2856 3774 2856 3774 C 2856 3774 2867 2818 2867 2818 C 2867 2818 1625 2233 1625 2233 Z M 2040 2652 C 2040 2652 2040 3162 2040 3162 C 2040 3162 2550 3120 2550 3120 C 2550 3120 2550 3120 2550 3120 C 2550 3120 2040 2652 2040 2652 Z " style="fill:url(#id10);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id11" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.410252,0.261471,-0.53746,0.843285,4347.53,1436.59)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#161616" />
+<stop offset="23.92%" stop-color="#585a71" />
+<stop offset="85.1%" stop-color="#161616" />
+</linearGradient>
+</defs>
+<path id="shape_13" d="M 2040 2652 C 2040 2652 2040 3162 2040 3162 C 2040 3162 2550 3120 2550 3120 C 2550 3120 2550 3120 2550 3120 C 2550 3120 2040 2652 2040 2652 Z " style="fill:url(#id11);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id12" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.035428,0.062148,-0.079905,0.04555,2021.93,4434.32)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0%" stop-color="#f3f3f3" />
+<stop offset="100%" stop-color="#2e2e2e" />
+</linearGradient>
+</defs>
+<path id="shape_14" d="M 1795.02 4138.36 C 1716.53 4156.67 1509.85 4252.16 1509.85 4252.16 C 1509.85 4252.16 1770.17 4972.94 1770.17 4972.94 C 1770.17 4972.94 1988.62 4932.38 1989.93 4932.38 C 2097.2 4887.91 2220.16 4691.69 2166.53 4471.93 C 2112.89 4253.47 1946.76 4103.04 1795.02 4138.36 Z " style="fill:url(#id12);stroke:none;" />
+</g>
+<g>
+<defs>
+<linearGradient id="id13" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.026674,0.075847,-0.173534,0.061029,2293.74,4268.84)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0.39%" stop-color="#bebebe" />
+<stop offset="100%" stop-color="#6d6d6d" />
+</linearGradient>
+</defs>
+<path id="shape_15" d="M 1571.33 4194.61 C 1427.44 4227.31 1350.26 4428.76 1398.66 4644.6 C 1448.37 4859.13 1604.04 5008.25 1747.93 4975.55 C 1891.82 4942.85 1969 4741.4 1919.29 4525.56 C 1870.89 4311.03 1715.23 4161.9 1571.33 4194.61 Z " style="fill:url(#id13);stroke:none;" />
+</g>
+</svg>
