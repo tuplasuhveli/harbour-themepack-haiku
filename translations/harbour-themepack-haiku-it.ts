@@ -16,10 +16,6 @@
         <translation>Da qui puoi richiedere le icone mancanti delle tue app preferite.</translation>
     </message>
     <message>
-        <source>Request icons</source>
-        <translation>Richiedi icone</translation>
-    </message>
-    <message>
         <source>Developers</source>
         <translation>Sviluppatori</translation>
     </message>

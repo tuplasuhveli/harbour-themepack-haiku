@@ -40,10 +40,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Request icons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Developers</source>
         <translation type="unfinished"></translation>
     </message>

@@ -102,32 +102,6 @@ Page
                 }
             }
 
-            IconTextSwitch {
-                id: skipDonateSwitch
-                automaticCheck: true
-                text: qsTr("I don't care donating")
-                onClicked: {
-                    if (checked) {
-                        donate.enabled = false
-                        donationAcknowledged = true
-                    } else {
-                        donate.enabled = true
-                        donationAcknowledged = false
-                    }
-                }
-            }
-
-            LabelSpacer { }
-
-            Button {
-                anchors.horizontalCenter: parent.horizontalCenter
-                enabled: donationAcknowledged && !busyindicator.running
-                text: qsTr("Request icons")
-                onClicked: {
-                    busyindicator.running = true
-                    themePack.fetchIcons(settings.packInstallPath, settings.iconRequestEmail, settings.iconRequestSubject)
-                }
-            }
 
             SectionHeader { text: qsTr("Developers") }
 
