@@ -1,0 +1,137 @@
+<svg width="64" height="64" viewBox="0 0 6528 6528" xmlns="http://www.w3.org/2000/svg">
+<path id="shape_0" d="M 5202 2244 C 5202 2244 4692 2550 4692 2550 C 4692 2550 4692 5916 4692 5916 C 4794 5916 5100 5814 5100 5814 C 5100 5814 5100 6324 5100 6324 C 5100 6528 5610 6324 5610 6120 C 5610 6120 5610 5610 5610 5610 C 5610 5610 6120 5304 6120 5202 C 6120 5202 6120 4488 6120 4488 C 6120 4488 6528 4284 6528 4182 C 6528 4182 6528 3033 6528 3033 C 6528 3033 6003 1973 6003 1973 C 6003 1973 5508 2142 5508 2142 C 5508 2142 5610 714 4896 0 C 5406 918 5202 2244 5202 2244 Z " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1609.18 -3393.39)" style="fill:#000000;stroke:none" fill-opacity="0.396078" />
+<path id="shape_1" d="M 4590 2346 C 4590 2346 4488 0 4488 0 " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1706.05 -3184.28)" style="fill:none;stroke:#000000;stroke-width:408;stroke-linejoin:miter;stroke-linecap:butt" />
+<path id="shape_2" d="M 4998 5916 C 4998 6120 5610 6120 5610 5916 C 5610 5916 5610 5508 5610 5508 C 5610 5508 6018 5508 6018 5508 C 6018 5508 6018 4794 6018 4794 C 6018 4794 6528 4794 6528 4794 C 6528 4794 6528 3687 6528 3687 C 6528 3687 5406 1734 5406 1734 C 5406 1734 5304 0 5304 0 " style="fill:#000000;stroke:none" fill-opacity="0.396078" />
+<path id="shape_3" d="M 4794 1836 C 4794 1836 4794 0 4794 0 " transform="matrix(1.000000 0.000000 0.000000 1.000000 306.00 0.00)" style="fill:none;stroke:#000000;stroke-width:408;stroke-linejoin:miter;stroke-linecap:butt" />
+<path id="shape_5" d="M 5814 3264 C 5814 3264 5814 3162 5712 2958 C 5712 2958 5304 2142 5304 2142 C 5202 1938 4998 1836 4794 1836 C 4590 1836 4386 1938 4284 2142 C 4284 2142 3876 2958 3876 2958 C 3774 3162 3774 3264 3774 3264 C 3774 3264 3774 4284 3774 4284 C 3774 4692 4183 4896 4794 4896 C 5406 4896 5814 4692 5814 4284 C 5814 4284 5814 3264 5814 3264 Z " transform="matrix(1.000000 0.000000 0.000000 1.000000 306.00 0.00)" style="fill:none;stroke:#000000;stroke-width:408;stroke-linejoin:miter;stroke-linecap:butt" />
+<g>
+<defs>
+<linearGradient id="grad1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.156250 0.000000 0.000000 0.328125 4794.00 1224.00)" x1="6528" x2="-6528" y1="-6528" y2="-6528">
+<stop offset="0.00%" stop-color="#e6e6e6" />
+<stop offset="36.47%" stop-color="#ffffff" />
+<stop offset="57.25%" stop-color="#e6e6e6" />
+<stop offset="89.02%" stop-color="#808080" />
+</linearGradient>
+</defs>
+<path id="shape_6" d="M 3876 2958 C 3876 2958 4284 2142 4284 2142 C 4386 1938 4590 1836 4794 1836 C 4998 1836 5202 1938 5304 2142 C 5304 2142 5712 3060 5712 3060 C 5610 2856 5202 2550 4794 2550 C 4386 2550 3978 2754 3876 2958 Z " transform="matrix(1.000000 0.000000 0.000000 1.000000 306.00 0.00)" style="fill:url(#grad1);stroke:none" />
+</g>
+<g>
+<defs>
+<linearGradient id="grad2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.156250 0.000000 0.000000 0.156250 4794.00 2550.00)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0.00%" stop-color="#e6e6e6" />
+<stop offset="36.47%" stop-color="#ffffff" />
+<stop offset="57.25%" stop-color="#e6e6e6" />
+<stop offset="100.00%" stop-color="#808080" />
+</linearGradient>
+</defs>
+<path id="shape_7" d="M 3774 4284 C 3774 3876 4182 3570 4794 3570 C 5406 3570 5814 3876 5814 4284 C 5814 4692 5406 4896 4794 4896 C 4182 4896 3774 4692 3774 4284 Z M 3876 2958 C 3876 2958 4284 2142 4284 2142 C 4386 1938 4590 1836 4794 1836 C 4998 1836 5202 1938 5304 2142 C 5304 2142 5712 3060 5712 3060 C 5610 2856 5202 2550 4794 2550 C 4386 2550 3978 2754 3876 2958 Z M 5814 3264 C 5814 3264 5814 3162 5712 2958 C 5712 2958 5304 2142 5304 2142 C 5202 1938 4998 1836 4794 1836 C 4590 1836 4386 1938 4284 2142 C 4284 2142 3876 2958 3876 2958 C 3774 3162 3774 3264 3774 3264 C 3774 3264 3774 4284 3774 4284 C 3774 4692 4183 4896 4794 4896 C 5406 4896 5814 4692 5814 4284 C 5814 4284 5814 3264 5814 3264 Z " transform="matrix(1.000000 0.000000 0.000000 1.000000 306.00 0.00)" style="fill:url(#grad2);stroke:none" />
+</g>
+<g>
+<defs>
+<radialGradient id="grad3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.218750 0.000000 0.000000 0.203125 5202.00 4488.00)" cx="0" cy="0" r="6528">
+<stop offset="0.00%" stop-color="#010101" />
+<stop offset="100.00%" stop-color="#ffffff" />
+</radialGradient>
+</defs>
+<path id="shape_8" d="M 3774 4284 C 3774 3876 4182 3570 4794 3570 C 5406 3570 5814 3876 5814 4284 C 5814 4692 5406 4896 4794 4896 C 4182 4896 3774 4692 3774 4284 Z " transform="matrix(1.000000 0.000000 0.000000 1.000000 306.00 0.00)" style="fill:url(#grad3);stroke:none" />
+</g>
+<path id="shape_10" d="M 4794 3876 C 4456 3876 4182 4081 4182 4335 C 4182 4335 4182 5049 4182 5049 C 4182 5302 4456 5508 4794 5508 C 5131 5508 5406 5302 5406 5049 C 5406 5049 5406 4335 5406 4335 C 5406 4081 5131 3876 4794 3876 Z " transform="matrix(1.000000 0.000000 0.000000 1.000000 306.00 0.00)" style="fill:none;stroke:#000000;stroke-width:408;stroke-linejoin:miter;stroke-linecap:butt" />
+<g>
+<defs>
+<radialGradient id="grad4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.109375 0.000000 0.000000 0.109375 4896.00 5406.10)" cx="0" cy="0" r="6528">
+<stop offset="0.00%" stop-color="#b7b040" />
+<stop offset="100.00%" stop-color="#010101" />
+</radialGradient>
+</defs>
+<path id="shape_11" d="M 5406 5049 C 5406 5302 5131 5508 4794 5508 C 4456 5508 4182 5302 4182 5049 C 4182 4795 4456 4590 4794 4590 C 5131 4590 5406 4795 5406 5049 Z " transform="matrix(1.000000 0.000000 0.000000 1.000000 306.00 0.00)" style="fill:url(#grad4);stroke:none" />
+</g>
+<g>
+<defs>
+<linearGradient id="grad5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.093750 0.000000 0.000000 0.109375 4794.00 3876.00)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0.00%" stop-color="#d9d06d" />
+<stop offset="18.82%" stop-color="#fff9bf" />
+<stop offset="36.47%" stop-color="#ffffff" />
+<stop offset="57.25%" stop-color="#fff9bf" />
+<stop offset="100.00%" stop-color="#655f01" />
+</linearGradient>
+</defs>
+<path id="shape_12" d="M 4794 3876 C 4456 3876 4182 4081 4182 4335 C 4182 4335 4182 5049 4182 5049 C 4182 5302 4456 5508 4794 5508 C 5131 5508 5406 5302 5406 5049 C 5406 5049 5406 4335 5406 4335 C 5406 4081 5131 3876 4794 3876 Z M 5406 5049 C 5406 5302 5131 5508 4794 5508 C 4456 5508 4182 5302 4182 5049 C 4182 4795 4456 4590 4794 4590 C 5131 4590 5406 4795 5406 5049 Z " transform="matrix(1.000000 0.000000 0.000000 1.000000 306.00 0.00)" style="fill:url(#grad5);stroke:none" />
+</g>
+<path id="shape_14" d="M 4794 5508 C 4794 5508 4794 4998 4794 4998 " transform="matrix(1.000000 0.000000 0.000000 1.000000 306.00 0.00)" style="fill:none;stroke:#000000;stroke-width:816;stroke-linejoin:round;stroke-linecap:round" />
+<g>
+<defs>
+<linearGradient id="grad6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.015625 0.000000 0.000000 0.062500 4794.00 5304.00)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0.00%" stop-color="#ffffff" />
+<stop offset="100.00%" stop-color="#b2a730" />
+</linearGradient>
+</defs>
+<path id="shape_15" d="M 4794 5508 C 4794 5508 4794 4998 4794 4998 " transform="matrix(1.000000 0.000000 0.000000 1.000000 306.00 0.00)" style="fill:none;stroke:url(#grad6);stroke-width:408;stroke-linejoin:round;stroke-linecap:round" />
+</g>
+<path id="shape_17" d="M 5814 3264 C 5814 3264 5814 3162 5712 2958 C 5712 2958 5304 2142 5304 2142 C 5202 1938 4998 1836 4794 1836 C 4590 1836 4386 1938 4284 2142 C 4284 2142 3876 2958 3876 2958 C 3774 3162 3774 3264 3774 3264 C 3774 3264 3774 4284 3774 4284 C 3774 4692 4183 4896 4794 4896 C 5406 4896 5814 4692 5814 4284 C 5814 4284 5814 3264 5814 3264 Z " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1114.80 -2998.47)" style="fill:none;stroke:#000000;stroke-width:408;stroke-linejoin:miter;stroke-linecap:butt" />
+<g>
+<defs>
+<linearGradient id="grad7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.140625 0.000000 0.000000 0.296875 4590.00 1836.00)" x1="6528" x2="-6528" y1="-6528" y2="-6528">
+<stop offset="0.00%" stop-color="#ea0606" />
+<stop offset="18.82%" stop-color="#ff0606" />
+<stop offset="36.47%" stop-color="#ffbfbf" />
+<stop offset="57.25%" stop-color="#ff0606" />
+<stop offset="90.98%" stop-color="#ab0000" />
+</linearGradient>
+</defs>
+<path id="shape_18" d="M 3876 2958 C 3876 2958 4284 2142 4284 2142 C 4386 1938 4590 1836 4794 1836 C 4998 1836 5202 1938 5304 2142 C 5304 2142 5712 3060 5712 3060 C 5610 2856 5202 2550 4794 2550 C 4386 2550 3978 2754 3876 2958 Z " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1114.80 -2998.47)" style="fill:url(#grad7);stroke:none" />
+</g>
+<g>
+<defs>
+<linearGradient id="grad8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.140625 0.000000 0.000000 0.187500 4590.00 3060.00)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0.00%" stop-color="#e50000" />
+<stop offset="18.82%" stop-color="#ff0000" />
+<stop offset="36.47%" stop-color="#ffbfbf" />
+<stop offset="57.25%" stop-color="#ff0000" />
+<stop offset="100.00%" stop-color="#ab0000" />
+</linearGradient>
+</defs>
+<path id="shape_19" d="M 3774 4284 C 3774 3876 4182 3570 4794 3570 C 5406 3570 5814 3876 5814 4284 C 5814 4692 5406 4896 4794 4896 C 4182 4896 3774 4692 3774 4284 Z M 3876 2958 C 3876 2958 4284 2142 4284 2142 C 4386 1938 4590 1836 4794 1836 C 4998 1836 5202 1938 5304 2142 C 5304 2142 5712 3060 5712 3060 C 5610 2856 5202 2550 4794 2550 C 4386 2550 3978 2754 3876 2958 Z M 5814 3264 C 5814 3264 5814 3162 5712 2958 C 5712 2958 5304 2142 5304 2142 C 5202 1938 4998 1836 4794 1836 C 4590 1836 4386 1938 4284 2142 C 4284 2142 3876 2958 3876 2958 C 3774 3162 3774 3264 3774 3264 C 3774 3264 3774 4284 3774 4284 C 3774 4692 4183 4896 4794 4896 C 5406 4896 5814 4692 5814 4284 C 5814 4284 5814 3264 5814 3264 Z " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1114.80 -2998.47)" style="fill:url(#grad8);stroke:none" />
+</g>
+<g>
+<defs>
+<radialGradient id="grad9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.218750 0.000000 0.000000 0.203125 5712.00 4386.00)" cx="0" cy="0" r="6528">
+<stop offset="0.00%" stop-color="#400000" />
+<stop offset="49.02%" stop-color="#ff0606" />
+<stop offset="100.00%" stop-color="#ffa5a5" />
+</radialGradient>
+</defs>
+<path id="shape_20" d="M 3774 4284 C 3774 3876 4182 3570 4794 3570 C 5406 3570 5814 3876 5814 4284 C 5814 4692 5406 4896 4794 4896 C 4182 4896 3774 4692 3774 4284 Z " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1114.80 -2998.47)" style="fill:url(#grad9);stroke:none" />
+</g>
+<path id="shape_22" d="M 4794 3876 C 4456 3876 4182 4081 4182 4335 C 4182 4335 4182 5049 4182 5049 C 4182 5302 4456 5508 4794 5508 C 5131 5508 5406 5302 5406 5049 C 5406 5049 5406 4335 5406 4335 C 5406 4081 5131 3876 4794 3876 Z " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1114.80 -2998.47)" style="fill:none;stroke:#000000;stroke-width:408;stroke-linejoin:miter;stroke-linecap:butt" />
+<g>
+<defs>
+<radialGradient id="grad10" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.109375 0.000000 0.000000 0.109375 4896.00 5406.10)" cx="0" cy="0" r="6528">
+<stop offset="0.00%" stop-color="#b7b040" />
+<stop offset="100.00%" stop-color="#010101" />
+</radialGradient>
+</defs>
+<path id="shape_23" d="M 5406 5049 C 5406 5302 5131 5508 4794 5508 C 4456 5508 4182 5302 4182 5049 C 4182 4795 4456 4590 4794 4590 C 5131 4590 5406 4795 5406 5049 Z " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1114.80 -2998.47)" style="fill:url(#grad10);stroke:none" />
+</g>
+<g>
+<defs>
+<linearGradient id="grad11" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.093750 0.000000 0.000000 0.109375 4794.00 3876.00)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0.00%" stop-color="#d9d06d" />
+<stop offset="18.82%" stop-color="#fff9bf" />
+<stop offset="36.47%" stop-color="#ffffff" />
+<stop offset="57.25%" stop-color="#fff9bf" />
+<stop offset="100.00%" stop-color="#655f01" />
+</linearGradient>
+</defs>
+<path id="shape_24" d="M 4794 3876 C 4456 3876 4182 4081 4182 4335 C 4182 4335 4182 5049 4182 5049 C 4182 5302 4456 5508 4794 5508 C 5131 5508 5406 5302 5406 5049 C 5406 5049 5406 4335 5406 4335 C 5406 4081 5131 3876 4794 3876 Z M 5406 5049 C 5406 5302 5131 5508 4794 5508 C 4456 5508 4182 5302 4182 5049 C 4182 4795 4456 4590 4794 4590 C 5131 4590 5406 4795 5406 5049 Z " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1114.80 -2998.47)" style="fill:url(#grad11);stroke:none" />
+</g>
+<path id="shape_26" d="M 4794 5508 C 4794 5508 4794 4998 4794 4998 " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1114.80 -2998.47)" style="fill:none;stroke:#000000;stroke-width:816;stroke-linejoin:round;stroke-linecap:round" />
+<g>
+<defs>
+<linearGradient id="grad12" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.015625 0.000000 0.000000 0.062500 4794.00 5304.00)" x1="-6528" x2="6528" y1="-6528" y2="-6528">
+<stop offset="0.00%" stop-color="#ffffff" />
+<stop offset="100.00%" stop-color="#b2a730" />
+</linearGradient>
+</defs>
+<path id="shape_27" d="M 4794 5508 C 4794 5508 4794 4998 4794 4998 " transform="matrix(0.707104 0.707104 -0.707104 0.707104 1114.80 -2998.47)" style="fill:none;stroke:url(#grad12);stroke-width:408;stroke-linejoin:round;stroke-linecap:round" />
+</g>
+</svg>
