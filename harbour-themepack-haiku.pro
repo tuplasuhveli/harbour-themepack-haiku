@@ -9,12 +9,15 @@ OTHER_SOURCES += $$MY_FILES
 my_resources.path = $$PREFIX/share/$$TARGET
 my_resources.files = $$MY_FILES
 
+appicons.files = appicons/*
+appicons.path = /usr/share/icons/hicolor/
+
 themepack.files = theme/*
 themepack.files -= theme/themepack-helper.sh
 themepack.files -= theme/companion
 themepack.path = $$PREFIX/share/$$TARGET
 
-INSTALLS += my_resources themepack
+INSTALLS += my_resources appicons themepack
 
 QT += concurrent
 CONFIG += sailfishapp c++11
@@ -32,8 +35,6 @@ OTHER_FILES += qml/harbour-themepack-haiku.qml \
     harbour-themepack-haiku.desktop \
     qml/pages/FirstPage.qml \
     theme/themepack-helper.sh
-
-SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
 
 CONFIG += sailfishapp_i18n
 

@@ -32,6 +32,10 @@ Builds available [here](https://openrepos.net/content/fravaccaro/haiku-theme-pac
 
 ## Credits
 
+### Contributors
+
+- **tuplasuhveli** — helped match Haiku icons to Sailfish apps and curate the icon set.
+
 ### Fonts
 
 - **DejaVu Sans** — [DejaVu fonts](https://dejavu-fonts.github.io/). See `theme/LICENSE` for the Bitstream Vera / Arev Fonts license.
