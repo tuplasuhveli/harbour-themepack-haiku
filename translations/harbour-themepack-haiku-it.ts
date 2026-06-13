@@ -67,9 +67,20 @@
         <source>This theme pack is inspired by Haiku® aesthetics; it is an independent project by UI Themer. This project is not affiliated with or endorsed by %1. Haiku® and HAIKU Leaf™ are trademarks of Haiku, Inc. See %2.</source>
         <translation>Questo pacchetto di temi è ispirato all&apos;estetica di Haiku®; si tratta di un progetto indipendente di UI Themer. Questo progetto non è affiliato né approvato da %1. Haiku® e HAIKU Leaf™ sono marchi di Haiku, Inc. Consultare %2.</translation>
     </message>
+</context>
+<context>
+    <name>Settings</name>
     <message>
-        <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <source>Haiku® themepack</source>
+        <translation>Pacchetto temi Haiku®</translation>
+    </message>
+    <message>
+        <source>Released under the GNU GPLv3 license. Icons from &lt;a href=&apos;https://hvif-store.art&apos;&gt;hvif-store.art&lt;/a&gt; and &lt;a href=&apos;https://github.com/darealshinji/haiku-icons&apos;&gt;Haiku® artwork&lt;/a&gt; (MIT). Fonts: &lt;a href=&apos;https://dejavu-fonts.github.io/&apos;&gt;DejaVu Sans&lt;/a&gt;. Icon matching and selection: tuplasuhveli. The companion app icon uses the Haiku leaf mascot (App_About).</source>
+        <translation>Rilasciato sotto licenza GNU GPLv3. Icone da &lt;a href=&apos;https://hvif-store.art&apos;&gt;hvif-store.art&lt;/a&gt; e &lt;a href=&apos;https://github.com/darealshinji/haiku-icons&apos;&gt;Haiku® artwork&lt;/a&gt; (MIT). Font: &lt;a href=&apos;https://dejavu-fonts.github.io/&apos;&gt;DejaVu Sans&lt;/a&gt;. Abbinamento e selezione icone: tuplasuhveli. L&apos;icona dell&apos;app companion usa la mascotte a foglia Haiku (App_About).</translation>
+    </message>
+    <message>
+        <source>Icon request for Haiku®</source>
+        <translation>Richiesta icone per Haiku®</translation>
     </message>
 </context>
 </TS>
