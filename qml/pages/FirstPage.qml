@@ -116,13 +116,7 @@ Page
                 text: qsTr("Documentation")
                 onClicked: Qt.openUrlExternally(settings.docsUrl)
             }
-
-            SectionHeader { text: qsTr("Credits") }
-
-            LabelText {
-                text: settings.creditsHtml
-            }
-
+            
             SectionHeader { text: qsTr("Translations") }
 
             Repeater {

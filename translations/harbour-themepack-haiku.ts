@@ -36,10 +36,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I don&apos;t care donating</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Developers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -69,6 +65,10 @@
     </message>
     <message>
         <source>This theme pack is inspired by Haiku® aesthetics; it is an independent project by UI Themer. This project is not affiliated with or endorsed by %1. Haiku® and HAIKU Leaf™ are trademarks of Haiku, Inc. See %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

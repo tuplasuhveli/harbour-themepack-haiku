@@ -60,16 +60,16 @@
         <translation>Se hai intenzione di richiedere icone, considera una donazione! Mi aiuta a rimanere motivato e a mantenere il progetto.</translation>
     </message>
     <message>
-        <source>I don&apos;t care donating</source>
-        <translation>Non mi interessa donare</translation>
-    </message>
-    <message>
         <source>Disclaimer</source>
         <translation>Avvertenza</translation>
     </message>
     <message>
         <source>This theme pack is inspired by Haiku® aesthetics; it is an independent project by UI Themer. This project is not affiliated with or endorsed by %1. Haiku® and HAIKU Leaf™ are trademarks of Haiku, Inc. See %2.</source>
         <translation>Questo pacchetto di temi è ispirato all&apos;estetica di Haiku®; si tratta di un progetto indipendente di UI Themer. Questo progetto non è affiliato né approvato da %1. Haiku® e HAIKU Leaf™ sono marchi di Haiku, Inc. Consultare %2.</translation>
+    </message>
+    <message>
+        <source>Credits</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
